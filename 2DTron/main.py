@@ -1,6 +1,3 @@
-#This is our game sdafds
-print('hello world')
-
 #Expand for the complete game class.
 import pygame
 import random
