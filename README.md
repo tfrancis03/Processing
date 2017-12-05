@@ -1,5 +1,11 @@
 # Pygame
 
-*Welcome to Pygame*
+## Welcome to Pygame
 
-_this is my code_
+*this is my code*
+
+1. a
+- hi
+2. b
+-there
+3. c
